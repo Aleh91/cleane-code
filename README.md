@@ -1,1 +1,1 @@
-https://Aleh91.github.io/clean-code/
+https://Aleh91.github.io/cleane-code/
