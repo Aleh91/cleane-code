@@ -166,7 +166,7 @@ var bindTaskEvents=function(taskListItem,checkBoxEventHandler){
     deleteButton.onclick=deleteTask;
     //Bind taskCompleted to checkBoxEventHandler.
     checkBox.onchange=checkBoxEventHandler;
-}
+};
 
 //cycle over incompleteTaskHolder ul list items
 //for each list item
